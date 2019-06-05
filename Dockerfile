@@ -1,1 +1,2 @@
-FROM ubuntu/cosmic:latest
+FROM buildpack-deps:cosmic
+
